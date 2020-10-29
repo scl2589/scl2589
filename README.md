@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-  
-<div align=center>
 [![Lin's github stats](https://github-readme-stats.vercel.app/api?username=scl2589&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <!--
 **scl2589/scl2589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
